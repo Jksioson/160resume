@@ -1,0 +1,31 @@
+a {
+   color: dimgray;
+}
+
+body {
+   background-color: mistyrose;
+}
+
+h1 {
+   color: black;
+   font-family: trebuchet;
+   font-size: 50px;
+   margin: 50px;
+}
+
+h2 {
+   border: 3px solid dimgray;
+   color: black;
+   font-family: trebuchet;
+   font-size: 30px;
+   margin: 50px;
+   padding: 10px; 
+}
+
+
+p {
+   color: dimgray;
+   font-family: trebuchet;
+   font-size: 20px;
+   margin: 50px;
+}
