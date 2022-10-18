@@ -4,10 +4,6 @@ a {
 
 body {
    background-color: mistyrose;
-   background-image: url('starsbg.jpg');
-   background-repeat: no-repeat;
-   background-attachment: fixed;
-   background-size: cover;
 }
 
 h1 {
