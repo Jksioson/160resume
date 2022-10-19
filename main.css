@@ -3,7 +3,7 @@ a {
 }
 
 body {
-   font: 16px Helvetica, Sans-Serif; line-height: 24px;
+   font: 16px Helvetica, Sans-Serif; line-height: 24px; text-align: center;
 }
 
 h1 {
