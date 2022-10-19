@@ -23,3 +23,7 @@ a { font: 16px Helvetica, Sans-Serif; color: #999; text-decoration: none; border
 	{
 	background-color: #FEDCDC; 
 	}
+#page-wrap 
+	{ 
+	width: 800px; margin: 40px auto 60px;
+	}
